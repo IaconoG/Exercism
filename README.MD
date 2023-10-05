@@ -3,19 +3,19 @@
 
 ## Commands
 
-### Downloading the exercise
+**Downloading the exercise**
 
 ```bash
 exercism download --exercise=<exercise-slug> --track=<track-slug>
 ```
 
-### Submitting the exercise
+**Submitting the exercise**
 
 ```bash
 exercism submit <implementation_file_paths>
 ```
 
-### Runnign the tests
+**Runnign the tests**
 
 ```bash
 gradle test
