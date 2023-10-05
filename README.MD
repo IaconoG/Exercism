@@ -1,4 +1,5 @@
-# Studing with [excersim](https://exercism.org)
+# Studing with [excersim](https://exercism.org/profiles/IaconoG)
+
 
 ## Commands
 
