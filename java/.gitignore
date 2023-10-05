@@ -9,3 +9,6 @@ bin/
 # Carpeta de compilación de Gradle
 build/
 .gradle/
+
+
+/annalyns-infiltration
