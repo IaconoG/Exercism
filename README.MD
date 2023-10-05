@@ -1,6 +1,6 @@
 # Studing with [excersim](https://exercism.org)
 
-## Important commands
+## Commands
 
 ### Downloading the exercise
 
