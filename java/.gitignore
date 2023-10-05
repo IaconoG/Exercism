@@ -1,0 +1,11 @@
+# Archivos de compilación
+bin/
+
+# Archivos de configuración del sistema
+.settings/
+.classpath
+.project
+
+# Carpeta de compilación de Gradle
+build/
+.gradle/
